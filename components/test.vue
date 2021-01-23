@@ -1,6 +1,6 @@
 <template>
     <div>
-        test test {{componentName}}
+        test test fdgdfgdfgdfgdfg {{componentName}}
 
     </div>
 </template>
