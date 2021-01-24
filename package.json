@@ -1,6 +1,7 @@
 {
   "name": "test-yegane",
   "description": "test project",
+  "version": "1.0.6",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/y-aslani/test.git"
