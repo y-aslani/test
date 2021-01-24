@@ -1,6 +1,6 @@
 <template>
     <div>
-        test test v-1.0.7 {{componentName}}
+        test test v-1.0.8 {{componentName}}
 
     </div>
 </template>
