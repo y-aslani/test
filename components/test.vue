@@ -1,6 +1,7 @@
 <template>
     <div>
-        test test v-1.0.9 {{componentName}}
+        test test v-1.1.0 {{componentName}}
+        <div>this is a test</div>
         <div>this is a test</div>
 
     </div>
